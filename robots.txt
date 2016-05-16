@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://b3457m0d3.github.io/c0n50l3/sitemap.xml 
