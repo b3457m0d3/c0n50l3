@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://b3457m0d3.github.io/c0n50l3/atom.xml" rel="self"/>
   <link href="http://b3457m0d3.github.io/c0n50l3/"/>
-  <updated>2016-05-16T06:42:47-04:00</updated>
+  <updated>2016-05-16T08:09:50-04:00</updated>
   <id>http://b3457m0d3.github.io/c0n50l3/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,20 @@
   
   <entry>
     <title type="html"><![CDATA[Forging Gray Matter]]></title>
-    <link href="http://b3457m0d3.github.io/c0n50l3/blog/2016/05/16/first/"/>
+    <link href="http://b3457m0d3.github.io/c0n50l3/blog/2016/05/16/forging-gray-matter/"/>
     <updated>2016-05-16T04:55:05-04:00</updated>
-    <id>http://b3457m0d3.github.io/c0n50l3/blog/2016/05/16/first</id>
+    <id>http://b3457m0d3.github.io/c0n50l3/blog/2016/05/16/forging-gray-matter</id>
+    <content type="html"><![CDATA[<blockquote><p>“Watch your thoughts, for they become words. Watch your words, for they become actions. Watch your actions, for they become habits. Watch your habits, for they become character. Watch your character, for it becomes your destiny.”</p></blockquote>
+
+<p>~ Lao Tzu</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Forging Gray Matter]]></title>
+    <link href="http://b3457m0d3.github.io/c0n50l3/blog/2016/05/16/food-for-thought/"/>
+    <updated>2016-05-16T04:55:05-04:00</updated>
+    <id>http://b3457m0d3.github.io/c0n50l3/blog/2016/05/16/food-for-thought</id>
     <content type="html"><![CDATA[<blockquote><p>“Watch your thoughts, for they become words. Watch your words, for they become actions. Watch your actions, for they become habits. Watch your habits, for they become character. Watch your character, for it becomes your destiny.”</p></blockquote>
 
 <p>~ Lao Tzu</p>
